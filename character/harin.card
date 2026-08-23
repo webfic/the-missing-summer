@@ -1,0 +1,22 @@
+type: character
+id: harin
+name: 장하린
+role: supporting
+attributes:
+  age: '17'
+  sex: female
+  job: 고등학생
+tags:
+  - 조급함
+  - 직진
+  - 외로움
+traits:
+  - 휴대전화를 뒤집어 놓는다
+  - 어른의 말을 그대로 되받는다
+description:
+  - 실종된 친구의 조카.
+  - 마을에서 유일하게 그 여름을 공개적으로 묻는 사람이다.
+voice:
+  - 빠르게 말하고 문장을 자주 끊는다
+desire:
+  - 가족이 감춘 이야기를 자기 입으로 말하게 만들고 싶다

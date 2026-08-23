@@ -1,0 +1,22 @@
+type: character
+id: myeongtae
+name: 구명태
+role: supporting
+attributes:
+  age: '61'
+  sex: male
+  job: 어촌계장
+tags:
+  - 온화함
+  - 계산
+  - 권위
+traits:
+  - 웃으며 말을 끊는다
+  - 남의 이름을 꼭 붙여 부른다
+description:
+  - 재개발 보상 합의를 이끄는 어촌계장.
+  - 마을의 평판과 보상금을 같은 저울에 올려 놓고 판단한다.
+voice:
+  - 존댓말과 반말을 섞어 거리를 조절한다
+desire:
+  - 합의가 끝날 때까지 그 여름을 덮어두고 싶다

@@ -1,0 +1,6 @@
+# Storyboard generated files
+.storyboard/cache/
+.draft/
+character/.sample.card
+background/.sample.card
+scene/.sample.txt

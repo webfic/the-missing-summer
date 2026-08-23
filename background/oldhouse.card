@@ -1,0 +1,19 @@
+type: location
+id: oldhouse
+name: 서연의 본가
+aliases:
+  - 본가
+  - 옛집
+description:
+  - 20년간 사람이 살지 않은 슬레이트 지붕 집.
+  - 마당에 아버지가 쓰던 그물 손질대가 그대로 남아 있다.
+characterIds: []
+tags:
+  - 가족
+  - 시간
+time: 저녁
+weather: 맑음
+senses:
+  - 곰팡이와 마른 소금 냄새
+  - 문틀이 뒤틀려 나는 마찰음
+locationKind: place

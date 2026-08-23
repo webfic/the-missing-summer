@@ -1,0 +1,65 @@
+version: 1.0.0
+facts:
+  - id: character:seoyeon:목격자 기록
+    subject:
+      kind: character
+      id: seoyeon
+    key: 목격자 기록
+    value: 실종 당일 저녁 방파제에서 정미래를 본 마지막 목격자로 조서에 기록되어 있다
+    status: canon
+  - id: character:seoyeon:귀향 사유
+    subject:
+      kind: character
+      id: seoyeon
+    key: 귀향 사유
+    value: 아버지의 장례로 20년 만에 무경항에 돌아왔다
+    status: canon
+  - id: character:jinu:직무
+    subject:
+      kind: character
+      id: jinu
+    key: 직무
+    value: 무경파출소 경위이며 20년 전 사건 기록을 다시 열람한 유일한 인물이다
+    status: canon
+  - id: character:boksun:그날의 위치
+    subject:
+      kind: character
+      id: boksun
+    key: 그날의 위치
+    value: 실종 당일 물때에 맞춰 방파제 바깥 바다에 들어가 있었다
+    status: canon
+  - id: character:harin:혈연
+    subject:
+      kind: character
+      id: harin
+    key: 혈연
+    value: 실종된 정미래의 조카다
+    status: canon
+  - id: background:summer1999:실종 사건
+    subject:
+      kind: background
+      id: summer1999
+    key: 실종 사건
+    value: 20년 전 8월, 열일곱 살 정미래가 실종됐고 유류품은 발견되지 않았다
+    status: canon
+  - id: background:summer1999:사건 종결
+    subject:
+      kind: background
+      id: summer1999
+    key: 사건 종결
+    value: 가출 의심으로 종결됐고 재수사는 이뤄지지 않았다
+    status: canon
+  - id: background:port:공사 중단
+    subject:
+      kind: background
+      id: port
+    key: 공사 중단
+    value: 방파제 확장 공사는 실종 직후 중단됐고 이후 재개되지 않았다
+    status: canon
+  - id: background:port:폐항 일정
+    subject:
+      kind: background
+      id: port
+    key: 폐항 일정
+    value: 폐항과 재개발 보상 합의는 작품 현재 시점 기준 두 달 뒤로 예정되어 있다
+    status: canon

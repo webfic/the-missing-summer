@@ -1,0 +1,19 @@
+type: location
+id: hall
+name: 어촌계 회관
+aliases:
+  - 회관
+  - 마을회관
+description:
+  - 보상 합의 설명회가 열리는 2층 회관.
+  - 벽에 마을 연혁 사진이 연도별로 붙어 있고 한 해만 비어 있다.
+characterIds: []
+tags:
+  - 공동체
+  - 합의
+time: 낮
+weather: 흐림
+senses:
+  - 믹스커피 냄새
+  - 형광등이 내는 낮은 진동음
+locationKind: place

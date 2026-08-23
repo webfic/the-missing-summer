@@ -1,0 +1,15 @@
+type: temporal
+id: summer1999
+name: 그 여름
+aliases:
+  - 스무 해 전
+  - 그해 여름
+description:
+  - 실종이 일어난 여름. 태풍이 두 번 지나갔고 방파제 공사가 중단됐다.
+characterIds: []
+tags:
+  - 과거
+  - 사건
+senses:
+  - 끈적한 습기
+  - 밤새 이어지는 매미 소리

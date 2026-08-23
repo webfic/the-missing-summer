@@ -1,0 +1,23 @@
+type: character
+id: jinu
+name: 오진우
+role: supporting
+attributes:
+  age: '39'
+  sex: male
+  job: 파출소 경위
+tags:
+  - 원칙
+  - 피로
+  - 미련
+traits:
+  - 묻기 전에 상대를 오래 본다
+  - 수첩을 펴놓고 쓰지 않는다
+description:
+  - 서연의 동창이자 그 여름 사건 기록을 유일하게 다시 열어본 사람.
+  - 규정과 마을 사이에서 매번 반 발짝 늦게 움직인다.
+voice:
+  - 문장을 끝까지 맺는다
+  - 존댓말을 쉽게 풀지 않는다
+desire:
+  - 종결된 기록의 빈 칸을 자기 손으로 메우고 싶다

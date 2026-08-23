@@ -1,0 +1,20 @@
+type: location
+id: port
+name: 무경항
+aliases:
+  - 항구
+  - 부두
+  - 선착장
+description:
+  - 폐항이 결정된 작은 어항. 방파제 끝에 낡은 등대가 서 있다.
+  - 보상 합의 현수막이 계류장 난간에 걸려 있다.
+characterIds: []
+tags:
+  - 바다
+  - 쇠락
+time: 이른 아침
+weather: 흐림
+senses:
+  - 기름과 젖은 밧줄 냄새
+  - 선체가 서로 부딪는 둔한 소리
+locationKind: place

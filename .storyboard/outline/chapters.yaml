@@ -1,0 +1,647 @@
+version: 1.0.0
+acts:
+  - id: act-1
+    title: 돌아온 목격자
+    summary: 서연은 폐항과 재개발을 앞둔 고향 해솔포로 돌아와, 어린 시절 친구 하린의 실종 기록이 자신을 유일한 목격자로 남겼음을 다시 확인했다. 가족과 마을이 피하던 과거는 재개발 보상금 합의를 계기로 다시 흔들렸다.
+    chapters:
+      - id: chapter-1
+        title: 빈 항구
+        summary: 서연은 어머니 복순의 부름으로 귀향했고, 폐항을 앞둔 항구에서 실종 사건의 흔적과 마을의 노골적인 불편함을 마주했다.
+        targetWordCount: 12000
+        scenes:
+          - id: scene-1-1
+            title: 돌아온 배
+            purpose: 서연이 해솔포에 돌아와 폐항 직전의 마을 분위기와 자신의 귀향 이유를 제시했다.
+            characters:
+              - seoyeon
+              - boksun
+            location: 해솔포 여객선 선착장
+            conflict: 복순은 서연에게 보상금 서류만 처리하고 떠나라고 했고, 서연은 20년 전 일이 끝나지 않았다고 느꼈다.
+            twist: 선착장 안내판의 폐항 예정일이 하린 실종 기념일과 같은 날짜였고, 서연은 이를 우연으로 넘기지 못했다.
+            emotionalShift: 서연은 낯선 방문객처럼 내렸으나, 항구의 냄새를 맡고 발걸음을 멈췄다.
+            foreshadowing:
+              - 폐항 예정일과 하린 실종 기념일의 일치
+              - 복순이 숨긴 낡은 방파제 사진
+            neededCanon:
+              - 해솔포는 가상의 남해 어촌이며 폐항과 재개발을 앞두고 있었다.
+              - 서연은 서른일곱 살로 20년 만에 귀향했다.
+              - 복순은 서연의 어머니였다.
+            targetWordCount: 3000
+          - id: scene-1-2
+            title: 잠긴 방
+            purpose: 서연이 어린 시절 방에서 자신의 기억을 자극하는 물건을 발견했다.
+            characters:
+              - seoyeon
+              - boksun
+            location: 복순의 집 서연의 옛방
+            conflict: 서연은 상자를 열려 했고, 복순은 과거 물건을 버렸다고 둘러댔다.
+            twist: 상자에는 하린의 이름이 적힌 조개 팔찌 한 짝과 젖은 종이 조각이 남아 있었다.
+            emotionalShift: 서연은 복순의 회피에 물러섰다가, 팔찌를 쥐고 다시 질문할 마음을 굳혔다.
+            foreshadowing:
+              - 조개 팔찌의 끊어진 매듭
+              - 젖은 종이에 남은 숫자 17
+            neededCanon:
+              - 하린은 서연과 같은 또래였고 20년 전 실종 처리됐다.
+              - 서연은 자신이 하린을 방파제로 따라가는 모습을 봤다고 믿어 왔다.
+            targetWordCount: 3000
+          - id: scene-1-3
+            title: 보상 설명회
+            purpose: 재개발 보상금이 마을 사람들의 침묵을 지탱하는 현실적 압력임을 드러냈다.
+            characters:
+              - seoyeon
+              - boksun
+              - myeongtae
+              - jinu
+            location: 해솔포 마을회관
+            conflict: 서연은 공개 기록에 하린 사건이 빠진 이유를 묻고, 명태와 진우는 설명회를 방해하지 말라고 했다.
+            twist: 보상 대상 도면에 옛 어구 창고 구역만 별도 정비 대상으로 표시돼 있었다.
+            emotionalShift: 서연은 수군거림에 움츠러들었으나, 도면을 접어 가방에 넣었다.
+            foreshadowing:
+              - 별도 정비 대상으로 표시된 옛 어구 창고
+              - 명태가 도면에서 급히 가린 방파제 구간
+            neededCanon:
+              - 명태는 마을 재개발 보상 협의를 주도했다.
+              - 진우는 당시 또래였으며 현재 항구 일을 맡고 있었다.
+              - 마을은 보상금 합의 직전이었다.
+            targetWordCount: 3000
+          - id: scene-1-4
+            title: 남은 목격자
+            purpose: 서연이 자신이 유일한 목격자라는 기록의 모순을 발견하고 재조사를 결심했다.
+            characters:
+              - seoyeon
+              - harin
+            location: 해솔포 작은 도서관 향토자료실
+            conflict: 서연은 사건 기사 속 자신의 진술을 읽으며, 기억과 다른 표현에 흔들렸다.
+            twist: 기사에는 익명의 두 번째 아이가 있었다는 초기 제보가 짧게 실려 있었다.
+            emotionalShift: 서연은 자신을 탓하던 기억에서 벗어나, 기록을 추적할 대상이 생겼다고 느꼈다.
+            foreshadowing:
+              - 초기 기사 속 익명의 두 번째 아이
+              - 기사에서 잘려 나간 사진의 오른쪽 가장자리
+            neededCanon:
+              - 하린 사건은 당시 실종 사건으로 보도됐다.
+              - 공식 기록은 서연을 유일한 목격자로 정리했다.
+              - 하린은 현재까지 실종 상태로 남아 있었다.
+            targetWordCount: 3000
+      - id: chapter-2
+        title: 다시 열린 기록
+        summary: 서연은 당시의 기록과 증언을 모으기 시작했고, 진우와 명태가 공유하는 불안을 통해 사건이 단순 실종이 아니었을 가능성을 좁혔다.
+        targetWordCount: 12000
+        scenes:
+          - id: scene-2-1
+            title: 지워진 문장
+            purpose: 서연이 사건 기록의 누락을 확인하고 진우를 첫 증언 대상으로 삼았다.
+            characters:
+              - seoyeon
+              - jinu
+            location: 해솔포 수협 창고 앞
+            conflict: 진우는 과거를 기억하지 못한다고 했고, 서연은 그가 기사 속 두 번째 아이일 수 있다고 압박했다.
+            twist: 진우는 서연이 본 것은 하린 혼자가 아니었다고 무심코 인정했다.
+            emotionalShift: 서연은 의심을 확신으로 바꾸었고, 진우는 작업 장갑을 벗지 못한 채 자리를 피했다.
+            foreshadowing:
+              - 진우 손등의 오래된 갈고리 흉터
+              - 진우가 말한 태풍 전날의 경보음
+            neededCanon:
+              - 진우는 하린과 서연의 또래였다.
+              - 진우는 현재 수협과 항구 물류 일을 했다.
+              - 사건 당시 태풍이 접근하고 있었다.
+            targetWordCount: 3000
+          - id: scene-2-2
+            title: 방파제의 금
+            purpose: 서연이 방파제에서 기억의 공백과 물리적 단서를 연결했다.
+            characters:
+              - seoyeon
+              - jinu
+            location: 옛 방파제 끝
+            conflict: 서연은 진우에게 당시 동선을 묻고, 진우는 파도 탓에 아무것도 볼 수 없었다고 버텼다.
+            twist: 방파제 보수 콘크리트 아래에서 숫자 17이 찍힌 오래된 금속 표지를 발견했다.
+            emotionalShift: 서연은 흐릿한 회상에 매달리던 태도에서 기록을 확인하려는 태도로 옮겨갔다.
+            foreshadowing:
+              - 방파제 보수 표지의 숫자 17
+              - 콘크리트 틈의 파란 밧줄 조각
+            neededCanon:
+              - 옛 방파제는 실종 직후 일부 보수됐다.
+              - 서연의 기억에는 비와 경보음, 파란 밧줄이 남아 있었다.
+            targetWordCount: 3000
+          - id: scene-2-3
+            title: 어머니의 봉투
+            purpose: 복순이 사건 뒤 서연을 보호하려 했던 사실과 그 한계를 드러냈다.
+            characters:
+              - seoyeon
+              - boksun
+            location: 복순의 집 부엌
+            conflict: 서연은 복순이 왜 기록을 숨겼는지 따졌고, 복순은 아이를 지키려 했다고 답했다.
+            twist: 복순은 실종 다음 날 명태가 가져온 봉투를 아직 버리지 못했다고 털어놓았다.
+            emotionalShift: 서연은 어머니에게 등을 돌리려다 봉투를 받으며 배신감과 연민 사이에서 멈췄다.
+            foreshadowing:
+              - 명태가 가져온 봉투의 방파제 보수 영수증
+              - 봉투 안의 어구 창고 열쇠표
+            neededCanon:
+              - 복순은 사건 뒤 서연의 진술을 반복 연습시켰다.
+              - 명태는 당시 마을 어촌계의 실무 책임자였다.
+              - 서연은 복순이 자신을 보호했다는 명분을 믿기 어려웠다.
+            targetWordCount: 3000
+          - id: scene-2-4
+            title: 창고의 냄새
+            purpose: 서연이 옛 어구 창고가 사건 당일 은폐에 쓰였을 가능성을 발견했다.
+            characters:
+              - seoyeon
+              - myeongtae
+            location: 폐쇄된 옛 어구 창고
+            conflict: 서연은 열쇠표로 창고에 들어가려 했고, 명태는 재개발 구역 무단출입이라며 막았다.
+            twist: 창고 바닥에서 하린의 팔찌와 같은 조개 조각, 오래된 소독약 냄새를 발견했다.
+            emotionalShift: 서연은 막연한 추측을 버리고 창고를 핵심 현장으로 받아들였다.
+            foreshadowing:
+              - 창고 바닥의 조개 조각
+              - 지워진 들것 바퀴 자국
+              - 명태가 숨긴 보수대장 사본
+            neededCanon:
+              - 옛 어구 창고는 실종 당시에도 사용 중이었다.
+              - 창고는 재개발로 철거될 예정이었다.
+              - 명태는 창고 출입을 강하게 통제했다.
+            targetWordCount: 3000
+      - id: chapter-3
+        title: 합의 전야
+        summary: 서연은 철거와 보상금 합의가 임박한 가운데, 하린을 둘러싼 기억이 어른들의 선택으로 다듬어졌다는 사실을 확인했다.
+        targetWordCount: 12000
+        scenes:
+          - id: scene-3-1
+            title: 두 번째 아이
+            purpose: 서연이 진우에게서 사건 당일 아이들이 위험한 장난을 했다는 첫 진술을 얻었다.
+            characters:
+              - seoyeon
+              - jinu
+            location: 새벽 수협 부두
+            conflict: 진우는 자신도 처벌받을 수 있다며 입을 다물려 했고, 서연은 하린의 이름이 지워진 대가를 물었다.
+            twist: 진우는 아이들이 창고의 구조용 밧줄을 가져가 방파제에서 장난쳤다고 고백했다.
+            emotionalShift: 서연은 진우를 가해자로 단정하려다, 그가 떨며 손을 씻는 모습을 보고 더 큰 책임의 방향을 의심했다.
+            foreshadowing:
+              - 구조용 파란 밧줄의 용도
+              - 진우의 갈고리 흉터가 생긴 경위
+            neededCanon:
+              - 사건 당시 서연·하린·진우는 모두 미성년이었다.
+              - 아이들은 어른의 감독 없이 항구 주변을 오갔다.
+              - 구조용 밧줄은 옛 어구 창고에 보관됐다.
+            targetWordCount: 3000
+          - id: scene-3-2
+            title: 바뀐 진술
+            purpose: 서연이 자신의 목격 진술이 복순과 명태의 개입으로 바뀌었음을 확인했다.
+            characters:
+              - seoyeon
+              - boksun
+              - myeongtae
+            location: 복순의 집 거실
+            conflict: 서연은 봉투 속 초안을 들이밀었고, 복순과 명태는 서로 책임을 미뤘다.
+            twist: 초안에는 서연이 창고 쪽에서 어른들의 목소리를 들었다는 문장이 지워져 있었다.
+            emotionalShift: 서연은 자신이 기억을 잃은 사람이 아니라 기억을 고치도록 강요받은 사람이었음을 받아들였다.
+            foreshadowing:
+              - 지워진 어른들의 목소리 문장
+              - 명태가 언급을 피한 경보음 이후의 시간
+            neededCanon:
+              - 복순과 명태는 사건 직후 서연의 곁에 있었다.
+              - 서연의 공식 진술은 반복된 면담 뒤 작성됐다.
+              - 명태는 사건의 세부 시간을 알고 있었다.
+            targetWordCount: 3000
+          - id: scene-3-3
+            title: 철거 통지
+            purpose: 서연이 철거 일정 때문에 증거 확보를 서둘러야 하는 상황을 만들었다.
+            characters:
+              - seoyeon
+              - myeongtae
+              - jinu
+            location: 옛 어구 창고 앞 재개발 공고판
+            conflict: 명태는 다음 날 창고 철거를 공지했고, 서연은 자료 보존을 요구했으나 주민들은 보상금 지연을 우려했다.
+            twist: 공고판 뒤에서 누군가 보수대장 사본의 한 장을 숨겨 두었던 사실이 드러났다.
+            emotionalShift: 서연은 혼자 파고드는 태도에서 진우에게 공개 증언을 요구하는 태도로 바뀌었다.
+            foreshadowing:
+              - 보수대장에 비어 있는 구조 요청 시간
+              - 철거 전날 밤 창고에 남은 누군가의 발자국
+            neededCanon:
+              - 보상금 합의는 창고 철거와 연동돼 있었다.
+              - 진우는 사건의 일부를 알고도 말하지 않았다.
+              - 서연은 증거 보존을 요청할 근거를 모으고 있었다.
+            targetWordCount: 3000
+          - id: scene-3-4
+            title: 태풍의 이름
+            purpose: 서연이 당시 기상 기록과 방파제 보수 기록의 시간 차이를 발견해 사고 은폐 가설을 세웠다.
+            characters:
+              - seoyeon
+              - harin
+            location: 도서관 향토자료실
+            conflict: 서연은 불완전한 자료만으로 결론을 내릴까 망설였고, 하린의 사진 앞에서 과거 기억이 흔들렸다.
+            twist: 태풍 경보 발령 전 이미 방파제 보수 인력이 호출됐다는 기록을 찾아냈다.
+            emotionalShift: 서연은 자신이 버려졌다는 기억에 붙들리다, 누군가 하린을 발견한 뒤 시간을 잃었다는 결론으로 나아갔다.
+            foreshadowing:
+              - 경보 발령 전의 보수 인력 호출
+              - 사진 오른쪽 가장자리의 어른 작업복
+            neededCanon:
+              - 당시 태풍은 사고 당일 밤 해솔포에 접근했다.
+              - 방파제 보수 기록은 어촌계가 관리했다.
+              - 하린의 사진은 사건 직전 촬영된 것이었다.
+            targetWordCount: 3000
+  - id: act-2
+    title: 침묵의 균열
+    summary: 서연은 창고와 방파제의 기록을 연결하며, 아이들의 장난 뒤 어른들이 구조를 늦추고 사건을 실종으로 정리했을 가능성을 추적했다. 증언자들은 보상금과 책임 사이에서 갈라졌다.
+    chapters:
+      - id: chapter-4
+        title: 닫힌 창고
+        summary: 철거를 앞둔 창고에서 물증을 확보하려는 서연은 명태의 저지와 진우의 망설임 속에서 사건 당일의 구조 지연을 구체화했다.
+        targetWordCount: 12000
+        scenes:
+          - id: scene-4-1
+            title: 밤의 열쇠
+            purpose: 서연과 진우가 철거 전 창고 안의 기록을 확보하도록 했다.
+            characters:
+              - seoyeon
+              - jinu
+            location: 옛 어구 창고 내부
+            conflict: 진우는 불법 침입과 보상금 손실을 두려워했고, 서연은 지금 놓치면 하린의 흔적도 사라진다고 했다.
+            twist: 숨겨진 선반에서 구조장비 점검표와 젖은 어린이 우비 단추를 발견했다.
+            emotionalShift: 진우는 도망치려다 점검표를 직접 꺼내 서연에게 건넸다.
+            foreshadowing:
+              - 구조장비 점검표의 누락된 밧줄
+              - 하린 우비와 같은 노란 단추
+            neededCanon:
+              - 창고 철거는 다음 날로 예정됐다.
+              - 진우는 창고 구조를 알고 있었다.
+              - 하린은 실종 당일 노란 우비를 입었다.
+            targetWordCount: 3000
+          - id: scene-4-2
+            title: 누락된 호출
+            purpose: 점검표와 보수대장을 통해 구조 요청이 의도적으로 늦춰졌음을 드러냈다.
+            characters:
+              - seoyeon
+              - myeongtae
+            location: 명태의 어촌계 사무실
+            conflict: 서연은 장비 반출 시간을 추궁했고, 명태는 기록 오류일 뿐이라며 사본을 빼앗으려 했다.
+            twist: 점검표에는 명태의 서명보다 앞선 시간에 장비가 반출된 흔적이 있었다.
+            emotionalShift: 서연은 명태를 의심하는 수준에서, 그가 거짓말을 하고 있음을 확신했다.
+            foreshadowing:
+              - 명태 서명 전 반출된 구조장비
+              - 누군가 덧쓴 반출 시각
+            neededCanon:
+              - 어촌계는 비상 구조장비를 관리했다.
+              - 명태는 사건 당일 장비 관리 책임자였다.
+              - 공식 구조 요청 시간은 사고 뒤 한참 지난 시각으로 남아 있었다.
+            targetWordCount: 3000
+          - id: scene-4-3
+            title: 복순의 침묵
+            purpose: 복순이 구조 지연을 목격했으나 딸을 지키려 침묵했다는 사실을 드러냈다.
+            characters:
+              - seoyeon
+              - boksun
+            location: 복순의 집 마당
+            conflict: 서연은 어머니가 무엇을 봤는지 묻고, 복순은 다시는 딸을 그 밤으로 보내지 말라고 했다.
+            twist: 복순은 창고 밖에서 하린의 기침 소리를 들었지만, 명태가 이미 늦었다고 말하는 것을 들었다고 고백했다.
+            emotionalShift: 서연은 복순을 몰아붙이다가, 어머니가 손톱으로 손바닥을 파고드는 모습을 보고 질문을 멈췄다.
+            foreshadowing:
+              - 창고 밖에서 들린 하린의 기침
+              - 명태의 이미 늦었다는 말
+            neededCanon:
+              - 복순은 사건 당일 항구 근처에 있었다.
+              - 복순은 당시 서연을 데리고 현장을 떠났다.
+              - 서연은 어머니의 침묵을 용서하지 못하고 있었다.
+            targetWordCount: 3000
+          - id: scene-4-4
+            title: 합의서의 빈칸
+            purpose: 재개발 합의서가 과거 은폐 관련자들의 이해관계를 묶고 있음을 보여줬다.
+            characters:
+              - seoyeon
+              - myeongtae
+              - jinu
+            location: 마을회관 협의실
+            conflict: 서연은 합의서의 책임 면제 조항을 공개했고, 명태는 사건과 재개발을 엮지 말라고 했다.
+            twist: 진우가 합의서 서명을 거부하며 사건 당일 함께 있었던 다른 아이가 없었다고 정정했다.
+            emotionalShift: 서연은 진우의 축소된 고백에 실망했으나, 그가 명태를 두려워한다는 점을 읽었다.
+            foreshadowing:
+              - 책임 면제 조항의 비공개 부속서
+              - 진우가 감춘 실제 동행자 수
+            neededCanon:
+              - 재개발 합의서는 주민 다수의 서명을 필요로 했다.
+              - 명태는 합의서 조항을 설명하는 위치에 있었다.
+              - 진우는 보상금이 필요한 처지였다.
+            targetWordCount: 3000
+      - id: chapter-5
+        title: 말해지지 않은 밤
+        summary: 서연은 복순, 진우, 명태의 상반된 진술을 대조하며 사고 당시 하린이 살아 있었던 시간과 어른들의 결정 과정을 복원하기 시작했다.
+        targetWordCount: 12000
+        scenes:
+          - id: scene-5-1
+            title: 파란 밧줄
+            purpose: 서연이 파란 밧줄이 아이들의 장난과 구조 지연 모두에 연결됐음을 밝힌다.
+            characters:
+              - seoyeon
+              - jinu
+            location: 방파제 아래 갯바위
+            conflict: 진우는 밧줄을 가져간 책임만 인정하려 했고, 서연은 하린을 발견한 뒤 누가 밧줄을 회수했는지 물었다.
+            twist: 진우는 명태가 밧줄을 자르고 창고로 가져가라고 시켰다고 말했다.
+            emotionalShift: 진우는 자신을 변명하던 말투를 멈추고, 처음으로 명태의 이름을 분명히 말했다.
+            foreshadowing:
+              - 잘린 파란 밧줄 끝
+              - 밧줄에 남은 노란 우비 섬유
+            neededCanon:
+              - 파란 밧줄은 창고의 구조장비였다.
+              - 아이들은 방파제에서 밧줄을 사용했다.
+              - 명태는 사고 뒤 현장에 도착했다.
+            targetWordCount: 3000
+          - id: scene-5-2
+            title: 사진의 가장자리
+            purpose: 서연이 잘린 사진에서 사고 현장에 있던 성인의 존재를 확인했다.
+            characters:
+              - seoyeon
+              - boksun
+            location: 도서관 향토자료실
+            conflict: 복순은 사진 복원을 막으려 했고, 서연은 진실을 위한 최소한의 확인이라고 맞섰다.
+            twist: 확대된 사진 가장자리에는 명태가 아니라 복순의 작업 앞치마가 찍혀 있었다.
+            emotionalShift: 서연은 어머니가 단순 목격자가 아니었을 수 있다는 생각에 사진을 내려놓았다.
+            foreshadowing:
+              - 복순의 작업 앞치마
+              - 사진 속 시계가 가리킨 구조 지연 전 시각
+            neededCanon:
+              - 사건 직전 사진은 항구 상점 앞에서 촬영됐다.
+              - 복순은 당시 항구에서 간이 식당을 운영했다.
+              - 복순의 앞치마에는 독특한 줄무늬가 있었다.
+            targetWordCount: 3000
+          - id: scene-5-3
+            title: 돌아오지 않은 호출
+            purpose: 복순이 구조 요청을 막은 것이 아니라 요청을 반복했으나 묵살됐음을 밝혀 책임의 결을 분명히 했다.
+            characters:
+              - seoyeon
+              - boksun
+              - myeongtae
+            location: 옛 항구 공중전화 자리
+            conflict: 서연은 복순에게 구조 요청 여부를 묻고, 명태는 그녀가 혼란스러워했다고 반박했다.
+            twist: 복순은 공중전화 수리 전표를 내놓으며 세 번 전화를 걸었다는 사실을 증명했다.
+            emotionalShift: 서연은 복순에게 겨눴던 분노를 거두지 못하면서도, 어머니가 혼자 버틴 밤을 처음 보았다.
+            foreshadowing:
+              - 공중전화 수리 전표의 통화 시각
+              - 명태가 구조 요청을 취소한 이유
+            neededCanon:
+              - 당시 해솔포에는 공중전화가 비상 연락 수단이었다.
+              - 복순은 전화로 도움을 요청했다.
+              - 명태는 현장 대응을 주도했다.
+            targetWordCount: 3000
+          - id: scene-5-4
+            title: 실종으로 쓰인 밤
+            purpose: 서연이 하린의 사고가 실종으로 정리된 직접적 동기를 알아냈다.
+            characters:
+              - seoyeon
+              - myeongtae
+            location: 명태의 집 창고방
+            conflict: 서연은 수리 전표와 장비 기록을 근거로 명태를 압박했고, 명태는 마을을 살리려 했다고 주장했다.
+            twist: 명태는 당시 불법 증축된 방파제 구간이 무너지면 항구 허가가 취소될 상황이었다고 털어놓았다.
+            emotionalShift: 서연은 명태의 사정을 듣고도 그의 계산이 한 아이의 이름보다 앞섰음을 깨달았다.
+            foreshadowing:
+              - 불법 증축된 방파제 구간
+              - 항구 허가 취소를 두려워한 어른들
+            neededCanon:
+              - 방파제 일부는 정식 승인 없이 보수·증축됐다.
+              - 사고가 공개되면 항구 운영과 주민 생계에 타격이 예상됐다.
+              - 명태는 당시 마을의 경제적 위기를 관리했다.
+            targetWordCount: 3000
+      - id: chapter-6
+        title: 무너지는 합의
+        summary: 증거가 공개될 위험이 커지자 명태는 서연을 고립시키려 했고, 진우와 복순은 각자의 방식으로 침묵을 끊기 시작했다.
+        targetWordCount: 12000
+        scenes:
+          - id: scene-6-1
+            title: 서명 거부
+            purpose: 진우가 공개적으로 보상금 합의 서명을 거부하며 마을의 균열을 표면화했다.
+            characters:
+              - seoyeon
+              - jinu
+              - myeongtae
+            location: 마을회관 공개 협의회
+            conflict: 명태는 진우에게 생계와 가족을 들먹이며 서명을 재촉했고, 서연은 진우가 말할 수 있게 자리를 지켰다.
+            twist: 진우는 하린을 창고 안에서 봤다고 공개적으로 말했다.
+            emotionalShift: 진우는 고개를 숙이던 자리에서 마이크를 잡았고, 주민들은 침묵 속에서 서로를 바라봤다.
+            foreshadowing:
+              - 진우가 본 창고 안의 하린
+              - 주민들이 숨긴 공동 대응의 약속
+            neededCanon:
+              - 진우는 사건 직후 하린이 창고에 있었다는 사실을 알고 있었다.
+              - 마을 주민들은 보상금 지급 지연을 두려워했다.
+              - 명태는 진우에게 영향력을 행사해 왔다.
+            targetWordCount: 3000
+          - id: scene-6-2
+            title: 남겨진 장부
+            purpose: 서연이 방파제 보수 장부 원본을 확보해 사고 뒤 은폐 작업을 입증했다.
+            characters:
+              - seoyeon
+              - boksun
+            location: 복순의 집 다락
+            conflict: 복순은 장부를 넘기면 서연까지 다시 조사받을 수 있다며 망설였고, 서연은 자신도 기록에서 빠질 수 없다고 했다.
+            twist: 장부에는 사고 다음 날 새벽 창고 바닥 세척과 방파제 긴급 보수가 기록돼 있었다.
+            emotionalShift: 복순은 장부를 품고 있던 손을 풀었고, 서연은 어머니를 붙잡지 않은 채 장부를 받아 들었다.
+            foreshadowing:
+              - 창고 바닥 세척 기록
+              - 방파제 긴급 보수의 작업자 명단
+            neededCanon:
+              - 복순은 장부 원본을 오랫동안 숨겨 왔다.
+              - 사고 다음 날 방파제와 창고에 작업이 이뤄졌다.
+              - 기록은 일부 페이지가 뜯겨 있었지만 핵심 날짜가 남아 있었다.
+            targetWordCount: 3000
+          - id: scene-6-3
+            title: 반쪽의 고백
+            purpose: 명태가 구조 지연을 인정하되 하린의 마지막 행방은 감추며 절정 전 의문을 남겼다.
+            characters:
+              - seoyeon
+              - myeongtae
+            location: 폐항한 관제소
+            conflict: 서연은 장부를 제시하며 하린이 언제까지 살아 있었는지 묻고, 명태는 자신이 직접 죽인 것은 아니라고 방어했다.
+            twist: 명태는 하린을 창고에서 옮긴 사람이 따로 있었다고 말했다.
+            emotionalShift: 서연은 답을 얻었다고 느끼다, 마지막 공백이 더 크다는 사실에 숨을 고르게 됐다.
+            foreshadowing:
+              - 하린을 창고에서 옮긴 미확인 인물
+              - 관제소에 남은 당시 무전 기록
+            neededCanon:
+              - 명태는 구조 지연과 현장 정리에 관여했다.
+              - 하린은 창고에서 발견된 뒤 다른 장소로 옮겨졌다.
+              - 사건의 최종 처리 경위는 아직 밝혀지지 않았다.
+            targetWordCount: 3000
+          - id: scene-6-4
+            title: 철거 전의 비
+            purpose: 서연이 태풍 전야의 기상 조건과 무전 기록을 연결해 최종 현장을 특정했다.
+            characters:
+              - seoyeon
+              - jinu
+              - harin
+            location: 폐항한 관제소 기록실
+            conflict: 진우는 마지막 진술을 하면 자신도 책임을 피할 수 없다고 했고, 서연은 누구도 면책받게 하려는 일이 아니라고 답했다.
+            twist: 무전 기록에는 방파제 아래가 아니라 북쪽 방치 창고로 이동하라는 지시가 남아 있었다.
+            emotionalShift: 진우는 기록을 읽고 울음을 삼켰고, 서연은 북쪽 창고로 향할 준비를 했다.
+            foreshadowing:
+              - 북쪽 방치 창고로의 이동 지시
+              - 태풍 전야의 조수 시간
+            neededCanon:
+              - 관제소에는 당시 무전 기록 일부가 보관돼 있었다.
+              - 북쪽 방치 창고는 재개발 구역 바깥 방파제와 이어져 있었다.
+              - 태풍 전야에는 조수가 빠르게 높아졌다.
+            targetWordCount: 3000
+  - id: act-3
+    title: 이름을 되찾는 일
+    summary: 태풍 전야, 서연은 북쪽 창고와 방파제 기록을 통해 하린의 죽음과 은폐의 전모를 확인했다. 진실은 보상금 합의를 무너뜨렸고, 서연은 화해가 아닌 기록의 회복을 선택했다.
+    chapters:
+      - id: chapter-7
+        title: 태풍 전야
+        summary: 철거와 폭풍이 닥치기 전, 서연은 북쪽 창고에서 마지막 물증을 찾고 복순과 명태가 감춰 온 결정의 실체를 마주했다.
+        targetWordCount: 12000
+        scenes:
+          - id: scene-7-1
+            title: 북쪽 창고
+            purpose: 서연이 무전 지시가 가리킨 북쪽 창고에서 하린의 최종 동선을 확인했다.
+            characters:
+              - seoyeon
+              - jinu
+            location: 북쪽 방치 창고
+            conflict: 폭풍 전 바람 속에서 진우는 문을 열지 말자고 했고, 서연은 철거와 침수 전에 확인해야 한다고 했다.
+            twist: 창고 안 배수구에서 노란 우비 단추와 파란 밧줄의 잘린 매듭이 함께 발견됐다.
+            emotionalShift: 서연은 하린이 여기까지 옮겨졌다는 사실 앞에서 무릎을 굽혔다가 증거 봉투를 꺼냈다.
+            foreshadowing:
+              - 노란 우비 단추의 회수
+              - 파란 밧줄 끊어진 매듭의 회수
+            neededCanon:
+              - 북쪽 창고는 사건 당시 방파제 보수 자재를 임시 보관했다.
+              - 하린은 노란 우비를 입고 있었다.
+              - 파란 밧줄은 현장에서 잘려 회수됐다.
+            targetWordCount: 3000
+          - id: scene-7-2
+            title: 열일곱 번째 표지
+            purpose: 숫자 17과 방파제 보수 기록을 연결해 하린이 남겨진 장소를 확정했다.
+            characters:
+              - seoyeon
+              - myeongtae
+            location: 북쪽 방파제 보수 구간
+            conflict: 명태는 증거를 넘기지 말고 마을 안에서 끝내자고 했고, 서연은 그의 제안을 거절했다.
+            twist: 숫자 17은 작업 구간 번호였고, 해당 구간 아래 빈 공간이 사고 뒤 급히 메워진 사실이 드러났다.
+            emotionalShift: 서연은 오래된 숫자를 개인적 공포에서 벗어나 사건의 좌표로 바꿔 보았다.
+            foreshadowing:
+              - 숫자 17의 회수
+              - 급히 메워진 방파제 하부 공간
+            neededCanon:
+              - 숫자 17은 방파제 보수 표지와 젖은 종이에 공통으로 남아 있었다.
+              - 방파제 보수 장부에는 구간별 작업 내역이 있었다.
+              - 명태는 보수 공사의 실제 위치를 알고 있었다.
+            targetWordCount: 3000
+          - id: scene-7-3
+            title: 마지막 선택
+            purpose: 복순이 하린을 발견한 뒤 명태의 은폐에 저항했으나 결국 서연을 데리고 떠났던 선택을 고백했다.
+            characters:
+              - seoyeon
+              - boksun
+              - myeongtae
+            location: 북쪽 방파제 아래 빈 공간
+            conflict: 서연은 복순에게 왜 하린 곁에 남지 않았는지 묻고, 복순은 명태가 서연도 위험해진다고 협박했다고 말했다.
+            twist: 복순은 하린의 손에 조개 팔찌 한 짝을 쥐여 주고 떠났다고 고백했다.
+            emotionalShift: 서연은 어머니의 손을 뿌리치려다, 조개 팔찌를 자신의 손바닥에 올려놓았다.
+            foreshadowing:
+              - 조개 팔찌 한 짝의 회수
+              - 복순이 숨긴 방파제 사진의 촬영 시점
+            neededCanon:
+              - 복순은 하린이 사고 뒤 살아 있는 모습을 보았다.
+              - 명태는 복순에게 서연의 안전을 빌미로 침묵을 요구했다.
+              - 조개 팔찌는 하린과 서연이 나눠 가진 물건이었다.
+            targetWordCount: 3000
+          - id: scene-7-4
+            title: 기록의 문
+            purpose: 서연이 증거를 공식 조사와 보존 절차로 넘기며 개인적 복수가 아닌 책임 추궁을 선택했다.
+            characters:
+              - seoyeon
+              - jinu
+              - boksun
+              - myeongtae
+            location: 해솔포 마을회관 앞
+            conflict: 명태는 폭풍과 철거를 이유로 공개를 미루자고 했고, 주민들은 합의 무산을 두려워했다.
+            twist: 진우와 복순이 각자 서명한 진술을 함께 제출하며 명태의 고립이 시작됐다.
+            emotionalShift: 서연은 혼자 싸우던 자리에서, 타인의 불완전한 책임을 받아 적는 사람이 됐다.
+            foreshadowing:
+              - 방파제 사진의 회수 준비
+              - 초기 기사 속 두 번째 아이의 정체 회수
+            neededCanon:
+              - 서연은 증거를 관련 기관에 제출할 수 있도록 원본과 사본을 구분했다.
+              - 진우와 복순은 각자 사건 관련 진술을 준비했다.
+              - 명태는 마을의 합의를 지키려 계속 공개를 막으려 했다.
+            targetWordCount: 3000
+      - id: chapter-8
+        title: 실종된 여름
+        summary: 공식 조사가 시작되며 하린의 죽음과 은폐가 확인되고, 보상금 합의는 무산된다. 서연은 하린을 실종자가 아닌 이름 있는 사람으로 기록에 되돌린 뒤 해솔포를 떠났다.
+        targetWordCount: 12000
+        scenes:
+          - id: scene-8-1
+            title: 확인된 자리
+            purpose: 방파제 하부 공간과 기록을 통해 하린의 죽음과 은폐의 전모를 공식적으로 확인했다.
+            characters:
+              - seoyeon
+              - myeongtae
+              - jinu
+              - boksun
+              - harin
+            location: 북쪽 방파제 보수 구간
+            conflict: 명태는 사고였을 뿐이라며 책임의 범위를 줄이려 했고, 서연은 구조 지연과 은폐가 별개의 선택이었다고 맞섰다.
+            twist: 보수 기록과 물증은 아이들의 장난 뒤 하린이 다쳤고, 어른들이 즉시 구조하지 않은 채 사고를 감추려 했음을 일치시켰다.
+            emotionalShift: 서연은 상상으로 채우던 마지막 밤을 사실로 받아들이며, 더는 자신의 잘못으로만 묶어 두지 않았다.
+            foreshadowing:
+              - 방파제 사진의 회수
+              - 경보음과 구조 지연 시간의 회수
+              - 어른 작업복 사진의 회수
+            neededCanon:
+              - 하린의 죽음은 또래들의 위험한 장난 뒤 발생한 사고였다.
+              - 어른들은 구조 지연과 현장 은폐를 선택했다.
+              - 사건은 실종으로 꾸며져 기록됐다.
+            targetWordCount: 3000
+          - id: scene-8-2
+            title: 무산된 보상
+            purpose: 진실 공개가 공동체의 경제적 합의와 관계를 무너뜨리는 대가를 보여줬다.
+            characters:
+              - seoyeon
+              - myeongtae
+              - jinu
+              - boksun
+            location: 마을회관
+            conflict: 주민들은 서연에게 보상금이 끊기면 누가 책임지냐고 했고, 서연은 하린의 이름을 지운 비용을 되물었다.
+            twist: 보상 협의는 조사와 증거 보존 문제로 중단됐고, 명태는 관련 사실에 대한 조사를 받게 됐다.
+            emotionalShift: 서연은 비난을 견디며 떠날 이유가 아니라 남긴 책임을 확인했다.
+            foreshadowing:
+              - 책임 면제 조항의 무력화
+              - 주민 공동 대응 약속의 붕괴
+            neededCanon:
+              - 재개발 보상 합의는 사건 관련 조사로 중단됐다.
+              - 명태와 관련자들은 법적 조사를 받게 됐다.
+              - 마을 공동체는 사건을 두고 갈라졌다.
+            targetWordCount: 3000
+          - id: scene-8-3
+            title: 이름이 남는 곳
+            purpose: 서연이 하린의 기록을 바로잡아 실종자라는 낙인을 지우는 결말의 행동을 완성했다.
+            characters:
+              - seoyeon
+              - boksun
+              - harin
+            location: 해솔포 도서관 향토자료실
+            conflict: 복순은 기록을 고치면 상처가 끝없이 남는다고 했고, 서연은 지워진 채로 두는 것이 더 오래 남는다고 답했다.
+            twist: 초기 기사 사진의 잘린 부분을 복원한 자료에서 서연과 하린이 함께 웃던 장면이 드러났다.
+            emotionalShift: 서연은 사진 속 자신을 외면하지 않고, 하린의 이름이 적힌 새 기록을 조용히 확인했다.
+            foreshadowing:
+              - 초기 기사 사진 가장자리의 회수
+              - 서연이 유일한 목격자가 아니었다는 기록의 회수
+            neededCanon:
+              - 하린 사건의 기록은 실종이 아닌 사고와 은폐가 있었던 사건으로 정정 절차에 들어갔다.
+              - 서연은 향토자료실에 관련 기록을 남겼다.
+              - 복순과 서연은 완전한 화해에 이르지 못했다.
+            targetWordCount: 3000
+          - id: scene-8-4
+            title: 떠나는 계절
+            purpose: 서연이 완전한 화해 대신 책임을 감당한 뒤 고향을 떠나는 여운을 만들었다.
+            characters:
+              - seoyeon
+              - boksun
+            location: 해솔포 여객선 선착장
+            conflict: 복순은 다시 오겠냐고 묻고, 서연은 약속할 수 없다고 했다.
+            twist: 복순은 숨겨 두었던 방파제 사진 원본을 건네며, 뒷면에 하린의 본명과 날짜를 적어 두었다.
+            emotionalShift: 서연은 사진을 가방에 넣고 배에 올랐으며, 뒤돌아보지 않은 채 항구가 멀어지는 것을 보았다.
+            foreshadowing:
+              - 복순이 숨긴 방파제 사진의 최종 회수
+              - 폐항 예정일과 하린 실종 기념일의 회수
+            neededCanon:
+              - 서연은 하린의 이름을 기록에 되돌린 뒤 해솔포를 떠났다.
+              - 재개발과 폐항의 미래는 조사 결과에 따라 불확실해졌다.
+              - 서연은 용서와 화해를 확정하지 않은 채 자신의 삶으로 돌아갔다.
+            targetWordCount: 3000
